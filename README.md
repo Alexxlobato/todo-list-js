@@ -1,2 +1,15 @@
-# todo-list-js
-Lista de Tarefas desenvolvida com HTML5, CSS3 e JavaScript. 
+# 📋 Lista de Tarefas
+
+Projeto desenvolvido para praticar JavaScript.
+
+## Funcionalidades
+
+- Adicionar tarefa
+- Excluir tarefa
+- Validação de campo vazio
+
+## Tecnologias
+
+- HTML
+- CSS
+- JavaScript
